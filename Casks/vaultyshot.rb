@@ -1,6 +1,6 @@
 cask "vaultyshot" do
-  version "1.0.0"
-  sha256 "0e5fedccf149d988805594462d9379a796ab55085f181d45e9a2db2f28e0ba7a"
+  version "1.0.1"
+  sha256 "d35ec4f7c1678f6a1e23c4739e633927ba6b7ac08fa9f653a95dba578af2acb2"
 
   url "https://github.com/Nelahia/vaulty-shot/releases/download/v#{version}/VaultyShot.zip"
   name "VaultyShot"
